@@ -1,0 +1,15 @@
+{
+    "name": "nroz/z.cli",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Kratz",
+            "email": "kratz.tobias@googlemail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "^3.3"
+    }
+}
